@@ -22,5 +22,8 @@ npm run lint
 
 npm install bootstrap
 
+
+# to run using docker(Please ensure that docker is installed and is working proeprly)
+docker-compose up --build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
