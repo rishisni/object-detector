@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
+npm install bootstrap
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
